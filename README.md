@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0048-rotate-image) |
 ## Quicksort
 |  |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
