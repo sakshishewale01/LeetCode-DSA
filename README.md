@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0039-combination-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
