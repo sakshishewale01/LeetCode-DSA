@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
