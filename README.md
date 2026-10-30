@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -247,9 +248,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
