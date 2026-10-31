@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0895-maximum-frequency-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0895-maximum-frequency-stack) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [0895-maximum-frequency-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0895-maximum-frequency-stack) |
 ## Treap
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0895-maximum-frequency-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -258,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
