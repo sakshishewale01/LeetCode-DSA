@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0895-maximum-frequency-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0895-maximum-frequency-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -263,9 +264,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0895-maximum-frequency-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0895-maximum-frequency-stack) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
