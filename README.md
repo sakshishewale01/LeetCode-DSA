@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Counting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0069-sqrtx) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Quicksort
 |  |
 | ------- |
