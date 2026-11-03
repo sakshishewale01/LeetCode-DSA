@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Quicksort
 |  |
 | ------- |
