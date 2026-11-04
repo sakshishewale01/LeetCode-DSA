@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0895-maximum-frequency-stack](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0895-maximum-frequency-stack) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Quicksort
 |  |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Trie
 |  |
 | ------- |
@@ -276,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
