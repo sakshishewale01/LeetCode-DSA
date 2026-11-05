@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
