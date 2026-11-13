@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0118-pascals-triangle) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [1021-remove-outermost-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -278,11 +280,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
