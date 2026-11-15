@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1267-count-servers-that-communicate) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
