@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0931-minimum-falling-path-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1267-count-servers-that-communicate](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1267-count-servers-that-communicate) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1267-count-servers-that-communicate](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1267-count-servers-that-communicate) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0931-minimum-falling-path-sum](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
