@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [1267-count-servers-that-communicate](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1267-count-servers-that-communicate) |
 ## Prefix Sum
 |  |
@@ -338,10 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [1267-count-servers-that-communicate](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [1267-count-servers-that-communicate](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/1267-count-servers-that-communicate) |
 ## Memoization
 |  |
@@ -351,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0062-unique-paths) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
