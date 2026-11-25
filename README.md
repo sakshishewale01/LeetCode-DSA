@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0229-majority-element-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -368,4 +370,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sakshishewale01/LeetCode-DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
